@@ -3251,7 +3251,7 @@ field_146215_m,enableBackgroundDrawing,0,
 field_146216_j,text,0,Has the current text being edited on the textbox.
 field_146217_k,maxStringLength,0,
 field_146218_h,width,0,The width of this text field.
-field_146219_i,height,0,
+field_146219_i,height,0,The height of this text field.
 field_146220_v,visible,0,True if this textbox is visible
 field_146221_u,disabledColor,0,
 field_146222_t,enabledColor,0,
